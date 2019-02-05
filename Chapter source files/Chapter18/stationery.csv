@@ -1,0 +1,100 @@
+Code,Type of product to be sold,Description of the product to be sold,Quantity of items in each pack,Colour,Sales Price,Purchase Price,Discount
+2336,Lever Arch File,Lever Arch File Foolscap,1,,55.3,23.39,Y
+3445,Lever Arch File,Lever Arch Files A4,1,Blue,61.73,28.55,Y
+3447,Lever Arch File,Lever Arch Files A4,1,Green,61.73,28.55,Y
+3526,Lever Arch File,Lever Arch Files A4,1,Red,61.73,28.55,Y
+3534,Lever Arch File,Lever Arch Files A4,1,Yellow,61.73,28.55,Y
+3623,Lever Arch File,Lever Arch Files Foolscap,1,Blue,61.73,28.55,Y
+3631,Lever Arch File,Lever Arch Files Foolscap,1,Green,61.73,28.55,Y
+3658,Lever Arch File,Lever Arch File A4,1,,55.3,20.48,Y
+3852,Lever Arch File,Lever Arch Files Foolscap,1,Red,61.73,28.55,Y
+3860,Lever Arch File,Lever Arch Files Foolscap,1,Yellow,61.73,28.55,Y
+7610,Lever Arch File,Elite 70 Lever Arch File Foolscap,1,Black,45.7,11.39,Y
+7612,Lever Arch File,Elite 70 Lever Arch File A4,1,Black,45.7,11.39,Y
+10270,Spine Label,Lever Arch File Spine Labels,10,Mixed,7.08,3.76,N
+10278,Spine Label,Lever Arch File Spine Labels,10,Black,7.08,3.76,N
+10279,Spine Label,Lever Arch File Spine Labels,10,Red ,7.08,3.76,N
+10280,Spine Label,Lever Arch File Spine Labels,10,Yellow ,7.08,3.76,N
+10281,Spine Label,Lever Arch File Spine Labels,10,Green ,7.08,3.76,N
+10282,Spine Label,Lever Arch File Spine Labels,10,Blue ,7.08,3.76,N
+12866,Lever Arch File,Lever Arch Files Foolscap,1,Black,61.73,31.96,N
+12869,Lever Arch File,Lever Arch Files A4,1,Black,61.73,28.55,Y
+16601,Organiser File,5 Part Organiser Files,1,Blue,23.7,11,Y
+16602,Organiser File,5 Part Organiser Files,1,Yellow,23.7,11,Y
+16603,Organiser File,7 Part Organiser Files,1,Blue,25.5,12.77,N
+16604,Organiser File,7 Part Organiser Files,1,Yellow,25.5,12.77,N
+16605,Organiser File,9 Part Organiser Files,1,Blue,28.5,14.68,N
+16606,Organiser File,9 Part Organiser Files,1,Yellow,28.5,14.68,N
+17555,Organiser File,5 Part Organiser Files,1,Red,23.7,11,Y
+17556,Organiser File,9 Part Organiser Files,1,Red,28.5,14.68,N
+17557,Organiser File,7 Part Organiser Files,1,Red,25.5,12.77,N
+21273,Lever Arch File,Elite 70 Lever Arch File A4,1,Blue,45.7,11.39,Y
+21274,Lever Arch File,Elite 70 Lever Arch File Foolscap,1,Blue,45.7,11.39,Y
+21275,Lever Arch File,Elite 70 Lever Arch File A4,1,Red,45.7,11.39,Y
+21276,Lever Arch File,Elite 70 Lever Arch File Foolscap,1,Red,45.7,11.39,Y
+26739, Folder,Square Cut Folder 270gsm Foolscap,1,Blue,29.76,2.02,Y
+26740, Folder,Square Cut Folder 270gsm Foolscap,1,Buff,29.76,2.02,Y
+26741, Folder,Square Cut Folder 270gsm Foolscap,1,Green,29.76,2.02,Y
+26742, Folder,Square Cut Folder 270gsm Foolscap,1,Orange,29.76,2.02,Y
+26743, Folder,Square Cut Folder 270gsm Foolscap,1,Yellow,29.76,2.02,Y
+26744, Folder,Square Cut Folder 270gsm Foolscap,1,Pink,29.76,2.02,Y
+26745, Folder,Square Cut Folder 270gsm Foolscap,1,Grey,29.76,2.02,Y
+26746, Folder,Square Cut Folder 270gsm Foolscap,1,Red,29.76,2.02,Y
+26747, Folder,Square Cut Folder 180gsm,1,Buff,8.58,0.66,Y
+26748,Lever Arch File,Foolscap Lever Arch File,1,Cloud,35.99,1.92,Y
+26749,Lever Arch File,A4 Lever Arch File,1,Cloud,35.99,1.92,Y
+30058,Binder,PVC 25mm ,1,Black,5.3,1.19,Y
+30059,Binder,PVC 25mm ,1,Blue,5.3,1.19,Y
+30060,Binder,PVC 25mm ,1,Red,5.3,1.19,Y
+30061,Binder,PVC 25mm ,1,Green,5.3,1.19,Y
+30062,Binder,PVC 25mm ,1,White,5.3,1.19,Y
+30105,Binder,PVC 50mm ,1,Blue,6.48,1.26,Y
+30106,Binder,PVC 50mm ,1,Red,6.48,1.26,Y
+30107,Binder,PVC 50mm ,1,Green,6.48,1.26,Y
+30269,Lever Arch File,Foolscap Lever Arch File,1,,4.12,0.34,Y
+30276,Binder,PVC 50mm ,1,White,6.48,1.26,Y
+30286,Lever Arch File,Foolscap Lever Arch File,1,Black,38,5.46,Y
+30287,Lever Arch File,Foolscap Lever Arch File,1,Blue,38,5.46,Y
+30288,Lever Arch File,Foolscap Lever Arch File,1,Red,38,5.46,Y
+30292,Lever Arch File,Foolscap Lever Arch File,1,Green,38,5.46,Y
+30293,Lever Arch File,Foolscap LeverArch File,1,Yellow,38,5.46,Y
+30312,Binder,PVC 38mm ,1,Black,5.35,1.24,Y
+30313,Binder,PVC 38mm ,1,Blue,5.35,1.24,Y
+30314,Binder,PVC 38mm ,1,Red,5.35,1.24,Y
+30315,Binder,PVC 38mm ,1,Green,5.35,1.24,Y
+30316,Binder,PVC 38mm ,1,White,5.35,1.24,Y
+30317,Binder,PVC 50mm ,1,Black,6.48,1.26,Y
+30318,Binder,PVC 65mm ,1,Black,7.3,1.36,Y
+30319,Binder,PVC 65mm ,1,Blue,7.3,1.24,Y
+30320,Binder,PVC 65mm ,1,Red,7.3,1.36,Y
+30321,Binder,PVC 65mm ,1,Green,7.3,1.36,Y
+30322,Binder,PVC 65mm ,1,White,7.3,1.36,Y
+31041, Folder,Square Cut Folder 180gsm foolscap,1,Blue,18.36,0.96,Y
+31042, Folder,Square Cut Folder 180gsm Foolscap,1,Buff,18.36,0.96,Y
+31043, Folder,Square Cut Folder 180gsm foolscap,1,Red,18.36,0.96,Y
+31044, Folder,Square Cut Folder 180gsm foolscap,1,Green,18.36,0.96,Y
+31045, Folder,Square Cut Folder 180gsm Foolscap,1,Yellow,18.36,0.96,Y
+31046, Folder,Square Cut Folder 180gsm foolscap,1,Grey,18.36,0.96,Y
+31047, Folder,Square Cut Folder 180gsm foolscap,1,Orange,18.36,0.96,Y
+31048, Folder,Square Cut Folder 180gsm foolscap,1,Pink,18.36,0.96,Y
+31492,Lever Arch File,A4 Lever Arch File Pkd 1,1,,4.12,0.34,Y
+36428, Folder,Square Cut Folder 270gsm A4,1,Blue,25.5,4.52,Y
+36429, Folder,Square Cut Folder 270gsm A4,1,Grey,25.5,4.52,Y
+36430, Folder,Square Cut Folder 270gsm A4,1,Yellow,25.5,4.52,Y
+36431, Folder,Square Cut Folder 270gsm A4,1,Buff,25.5,4.52,Y
+36432, Folder,Square Cut Folder 270gsm A4,1,Green,25.5,4.52,Y
+36433, Folder,Square Cut Folder 270gsm A4,1,Pink,25.5,4.52,Y
+36434, Folder,Square Cut Folder 270gsm A4,1,Red,25.5,4.52,Y
+36435, Folder,Square Cut Folder 270gsm A4,1,Orange,25.5,4.52,Y
+39369,Lever Arch File,A4 Lever Arch File,1,Black,38,6.38,Y
+39370,Lever Arch File,A4 Lever Arch File,1,Blue,38,6.38,Y
+39371,Lever Arch File,A4 Lever Arch File,1,Red,38,6.38,Y
+39372,Lever Arch File,A4 Lever Arch File,1,Green,38,6.38,Y
+39373,Lever Arch File,A4 Lever Arch File,1,Yellow,38,6.38,Y
+44253,Organiser File,5 Part Organiser Files,1,Green,23.7,11.92,N
+44254,Organiser File,7 Part Organiser Files,1,Green,25.5,12.77,N
+44255,Organiser File,9 Part Organiser Files,1,Green,28.5,14.68,N
+44278,Lever Arch File,Laminated Lever Arch Files,1,Blue,57.22,28.96,N
+44279,Lever Arch File,Laminated Lever Arch Files,1,Green,57.22,28.96,N
+44280,Lever Arch File,Laminated Lever Arch Files,1,Grey,57.22,28.96,N
+44281,Lever Arch File,Laminated Lever Arch Files,1,Purple,57.22,28.96,N
